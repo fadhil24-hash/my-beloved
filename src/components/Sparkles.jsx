@@ -31,7 +31,7 @@ export default function Sparkles() {
             opacity: 0.4,
           }}
         >
-          ✦ ✧ ⋆
+          ✦
         </span>
       ))}
     </div>
